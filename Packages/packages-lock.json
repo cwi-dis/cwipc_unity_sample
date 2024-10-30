@@ -214,10 +214,11 @@
       "url": "https://packages.unity.com"
     },
     "nl.cwi.dis.cwipc": {
-      "version": "file:nl.cwi.dis.cwipc",
+      "version": "https://github.com/cwi-dis/cwipc_unity.git?path=nl.cwi.dis.cwipc",
       "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "c21f072e8b394f6f1f78efb339790724f1f809c7"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
